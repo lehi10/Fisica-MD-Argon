@@ -1,0 +1,49 @@
+/tmp/cczNiG40.o: En la función `takeStep()':
+/home/lehi/Documentos/Fisica/md2d.cpp:168: referencia a `glutSetWindow' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:169: referencia a `glutPostRedisplay' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:172: referencia a `glutPostRedisplay' sin definir
+/tmp/cczNiG40.o: En la función `display()':
+/home/lehi/Documentos/Fisica/md2d.cpp:177: referencia a `glClear' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:178: referencia a `glutSwapBuffers' sin definir
+/tmp/cczNiG40.o: En la función `drawText(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, double, double)':
+/home/lehi/Documentos/Fisica/md2d.cpp:182: referencia a `glRasterPos2d' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:185: referencia a `glutBitmapHelvetica12' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:185: referencia a `glutBitmapCharacter' sin definir
+/tmp/cczNiG40.o: En la función `displayMols()':
+/home/lehi/Documentos/Fisica/md2d.cpp:189: referencia a `glClear' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:190: referencia a `glColor3ub' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:193: referencia a `glBegin' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:194: referencia a `glVertex2d' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:197: referencia a `glVertex2d' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:198: referencia a `glEnd' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:200: referencia a `glColor3ub' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:205: referencia a `glutSwapBuffers' sin definir
+/tmp/cczNiG40.o: En la función `reshape(int, int)':
+/home/lehi/Documentos/Fisica/md2d.cpp:216: referencia a `glutSetWindow' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:219: referencia a `glutReshapeWindow' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:220: referencia a `glViewport' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:221: referencia a `glMatrixMode' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:222: referencia a `glLoadIdentity' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:223: referencia a `gluOrtho2D' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:224: referencia a `glMatrixMode' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:225: referencia a `glLoadIdentity' sin definir
+/tmp/cczNiG40.o: En la función `molsMouse(int, int, int, int)':
+/home/lehi/Documentos/Fisica/md2d.cpp:235: referencia a `glutIdleFunc' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:238: referencia a `glutIdleFunc' sin definir
+/tmp/cczNiG40.o: En la función `makeWindows()':
+/home/lehi/Documentos/Fisica/md2d.cpp:248: referencia a `glutInitWindowSize' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:249: referencia a `glutInitWindowPosition' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:250: referencia a `glutCreateWindow' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:254: referencia a `glShadeModel' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:255: referencia a `glClearColor' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:256: referencia a `glutDisplayFunc' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:257: referencia a `glutReshapeFunc' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:260: referencia a `glutCreateSubWindow' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:261: referencia a `glClearColor' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:262: referencia a `glutDisplayFunc' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:263: referencia a `glutMouseFunc' sin definir
+/tmp/cczNiG40.o: En la función `main':
+/home/lehi/Documentos/Fisica/md2d.cpp:268: referencia a `glutInit' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:272: referencia a `glutInitDisplayMode' sin definir
+/home/lehi/Documentos/Fisica/md2d.cpp:274: referencia a `glutMainLoop' sin definir
+collect2: error: ld returned 1 exit status
